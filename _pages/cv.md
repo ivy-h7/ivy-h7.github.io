@@ -26,6 +26,7 @@ Education
 
 Research Interests
 ==================
+* Distributed Consensus
 
 * Federated Learning
 
@@ -36,13 +37,13 @@ Research Interests
 
   * Unsupervised Multi-Source Domain Adaptation
   * Domain Adaptation Theory
-  * Domain Generlazation
+  * Domain Generalization
 * Reinforcement Learning
 * Applied Cryptography
 
 Publications
 ============
-
+* **Jiaqi Hu**, Karl H. Johansson, and Apostolos I. Rikos. Distributed Quantized Average Consensus in Open Multi-Agent Systems  with Dynamic Communication Links. 64th IEEE Conference on Decision and Control (CDC2025).
 * Qian Chen, Zilong Wang, **Jiaqi Hu**, Haonan Yan, Jianying Zhou, and Xiaodong Lin. 2024. PAGE: Equilibrate Personalization and Generalization in Federated Learning. In Proceedings of the ACM on Web Conference 2024 (WWW '24). Association for Computing Machinery, New York, NY, USA, 2955–2964. https://doi.org/10.1145/3589334.3645513
 * Qian Chen, **Jiaqi Hu**, Zilong Wang, Jianying Zhou, Xiaodong Lin, "DDPG-Assisted Adaptive Federated Learning: Comprehensive Consideration", working paper.
 
